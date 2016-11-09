@@ -1,0 +1,9 @@
+Täällä on tietoa, mikä auttaa enteenpäin 
+
+    Repository name: simple, short, lowercase name for your project. Will be a folder name in Linux and Windows
+    Description: explain in one English sentence what your program does. Use the same single sentence everywhere, such as man pages and project homepage
+    Public: so that someone can actually use your project
+    Add a license: always decide on a license. A license tells what other people are allowed to do with your code. “GNU General Public License v3.0″ is a good choice for a Free software project.
+    “Create a repository”
+
+
